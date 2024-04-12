@@ -9,7 +9,6 @@ document.addEventListener("DOMContentLoaded", function() {
 		        <img src="images/${cardInfo.image}" class="order-image" alt="music icon" />
 		        <div>
 		          <h6>${cardInfo.title}</h6>
-		          <p>$59.99/year</p>
 		        </div>
 	        	<button class="delete-cart-item" key-id="${key}">Delete</button>
 	     	 </div>
